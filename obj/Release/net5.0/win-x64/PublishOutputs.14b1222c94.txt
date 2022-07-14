@@ -1,0 +1,6 @@
+C:\Apps\FfmpegConverter\bin\Release\net5.0\win-x64\publish\FfmpegConverter.pdb
+C:\Apps\FfmpegConverter\bin\Release\net5.0\win-x64\publish\clrcompression.dll
+C:\Apps\FfmpegConverter\bin\Release\net5.0\win-x64\publish\clrjit.dll
+C:\Apps\FfmpegConverter\bin\Release\net5.0\win-x64\publish\coreclr.dll
+C:\Apps\FfmpegConverter\bin\Release\net5.0\win-x64\publish\mscordaccore.dll
+C:\Apps\FfmpegConverter\bin\Release\net5.0\win-x64\publish\FfmpegConverter.exe

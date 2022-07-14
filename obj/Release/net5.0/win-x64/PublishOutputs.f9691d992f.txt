@@ -1,0 +1,2 @@
+C:\Apps\FfmpegConverter\bin\Release\net5.0\publish\FfmpegConverter.pdb
+C:\Apps\FfmpegConverter\bin\Release\net5.0\publish\FfmpegConverter.exe

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FfmpegConverter</id>
+    <version>1.0.0</version>
+    <authors>FfmpegConverter</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Apps\FfmpegConverter\bin\Debug\net5.0\FfmpegConverter.runtimeconfig.json" target="lib\net5.0\FfmpegConverter.runtimeconfig.json" />
+    <file src="C:\Apps\FfmpegConverter\bin\Debug\net5.0\FfmpegConverter.dll" target="lib\net5.0\FfmpegConverter.dll" />
+  </files>
+</package>

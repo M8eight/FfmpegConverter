@@ -1,0 +1,15 @@
+C:\Apps\FfmpegConverter\bin\Debug\net6.0\FfmpegConverter.exe
+C:\Apps\FfmpegConverter\bin\Debug\net6.0\FfmpegConverter.deps.json
+C:\Apps\FfmpegConverter\bin\Debug\net6.0\FfmpegConverter.runtimeconfig.json
+C:\Apps\FfmpegConverter\bin\Debug\net6.0\FfmpegConverter.dll
+C:\Apps\FfmpegConverter\bin\Debug\net6.0\FfmpegConverter.pdb
+C:\Apps\FfmpegConverter\obj\Debug\net6.0\FfmpegConverter.csproj.AssemblyReference.cache
+C:\Apps\FfmpegConverter\obj\Debug\net6.0\FfmpegConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\FfmpegConverter\obj\Debug\net6.0\FfmpegConverter.AssemblyInfoInputs.cache
+C:\Apps\FfmpegConverter\obj\Debug\net6.0\FfmpegConverter.AssemblyInfo.cs
+C:\Apps\FfmpegConverter\obj\Debug\net6.0\FfmpegConverter.csproj.CoreCompileInputs.cache
+C:\Apps\FfmpegConverter\obj\Debug\net6.0\FfmpegConverter.dll
+C:\Apps\FfmpegConverter\obj\Debug\net6.0\refint\FfmpegConverter.dll
+C:\Apps\FfmpegConverter\obj\Debug\net6.0\FfmpegConverter.pdb
+C:\Apps\FfmpegConverter\obj\Debug\net6.0\FfmpegConverter.genruntimeconfig.cache
+C:\Apps\FfmpegConverter\obj\Debug\net6.0\ref\FfmpegConverter.dll

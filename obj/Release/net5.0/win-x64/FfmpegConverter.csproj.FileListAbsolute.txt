@@ -1,0 +1,16 @@
+C:\Apps\FfmpegConverter\bin\Release\net5.0\win-x64\FfmpegConverter.exe
+C:\Apps\FfmpegConverter\bin\Release\net5.0\win-x64\FfmpegConverter.deps.json
+C:\Apps\FfmpegConverter\bin\Release\net5.0\win-x64\FfmpegConverter.runtimeconfig.json
+C:\Apps\FfmpegConverter\bin\Release\net5.0\win-x64\FfmpegConverter.runtimeconfig.dev.json
+C:\Apps\FfmpegConverter\bin\Release\net5.0\win-x64\FfmpegConverter.dll
+C:\Apps\FfmpegConverter\bin\Release\net5.0\win-x64\FfmpegConverter.pdb
+C:\Apps\FfmpegConverter\obj\Release\net5.0\win-x64\FfmpegConverter.csproj.AssemblyReference.cache
+C:\Apps\FfmpegConverter\obj\Release\net5.0\win-x64\FfmpegConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\FfmpegConverter\obj\Release\net5.0\win-x64\FfmpegConverter.AssemblyInfoInputs.cache
+C:\Apps\FfmpegConverter\obj\Release\net5.0\win-x64\FfmpegConverter.AssemblyInfo.cs
+C:\Apps\FfmpegConverter\obj\Release\net5.0\win-x64\FfmpegConverter.csproj.CoreCompileInputs.cache
+C:\Apps\FfmpegConverter\obj\Release\net5.0\win-x64\FfmpegConverter.dll
+C:\Apps\FfmpegConverter\obj\Release\net5.0\win-x64\FfmpegConverter.pdb
+C:\Apps\FfmpegConverter\obj\Release\net5.0\win-x64\FfmpegConverter.genruntimeconfig.cache
+C:\Apps\FfmpegConverter\obj\Release\net5.0\win-x64\ref\FfmpegConverter.dll
+C:\Apps\FfmpegConverter\bin\Release\net5.0\win-x64\ref\FfmpegConverter.dll
