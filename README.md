@@ -30,4 +30,4 @@ Next, a format will be offered to which the video will be converted by default, 
 Press Enter and after that the process will start when the operation is finished
 the file will automatically close and the processed file will be located in the render folder
 
-## [Video guide](https://youtu.be/U25UtcyQdRI/)
+## [Video guide](https://youtu.be/eZwTnt3Mg-M)
