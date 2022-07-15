@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "la21Z3+BapymTMzomXug+XGooprposrC9qWZuUKNqroc1oTPr9F5krGLQHSdUquOJcLN2dDLKeJ46o5df6G0VQ==",
+  "dgSpecHash": "6wwfZlNUJQA+OKpZtk3ACsMj6EhrDEpP1EetJLKBUT/qmsEaAqZQCK36I3lglSvjweQW5xFxkzvgzoLyLTZvpQ==",
   "success": true,
   "projectFilePath": "C:\\Apps\\FfmpegConverter\\FfmpegConverter.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Alexey\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -26,17 +26,11 @@ namespace MainProgram
             }
             foreach (var item in namesArr)
             {
-                Console.WriteLine(item[5..^4]);
+                Console.WriteLine(item[5..^0]);
             }
-            Console.Write("File name: ");
-            string? input = Console.ReadLine();
 
-            Console.WriteLine("What is the extension of the file (mkv by default)");
-            string extensionInput = Console.ReadLine() ?? "mkv";
-            if (extensionInput == "")
-            {
-                extensionInput = "mkv";
-            }
+            Console.Write("File name: ");
+            string input = Console.ReadLine() ?? "no";
 
             Console.WriteLine("What format to convert to (default mp4)");
             string renderExtensionInput = Console.ReadLine() ?? "mp4";
@@ -47,7 +41,8 @@ namespace MainProgram
 
             Process process = new();
             process.StartInfo.FileName = @"lib\ffmpeg.exe";
-            process.StartInfo.Arguments = $"-i \"data\\{input}.{extensionInput}\" \"render\\{input}.{renderExtensionInput}\"";
+            string fullPath = $"-i \"data\\{input}\" \"render\\{input[0..^4]}.{renderExtensionInput}\"";
+            process.StartInfo.Arguments = fullPath;
             process.Start();
             process.WaitForExit();
         }
@@ -62,10 +57,16 @@ namespace MainProgram
                     Directory.CreateDirectory(item);
                     if (item == "lib")
                     {
-                        Console.WriteLine("First run install ffmpeg, it will take some time");
-                        WebClient webClient = new();
-                        string path = @"lib\ffmpeg.exe";
-                        webClient.DownloadFile("https://drive.google.com/uc?export=download&id=15TzAf6oe52kPUnQN2GoOcYGrWQyA5QyP", path);
+                        bool file = File.Exists(@"lib\ffmpeg.exe");
+                        if (!file)
+                        {
+                            Console.ForegroundColor = ConsoleColor.Red;
+                            Console.WriteLine("Not Found FFmpeg binary file");
+                            Console.WriteLine("Please download ffmpeg.exe ");
+                            Console.ResetColor();
+                            Console.ReadKey();
+                            Environment.Exit(0);
+                        }
                     }
                 }
             }

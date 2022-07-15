@@ -13,4 +13,4 @@ C:\Apps\FfmpegConverter\obj\Debug\net5.0\FfmpegConverter.dll
 C:\Apps\FfmpegConverter\obj\Debug\net5.0\FfmpegConverter.pdb
 C:\Apps\FfmpegConverter\obj\Debug\net5.0\FfmpegConverter.genruntimeconfig.cache
 C:\Apps\FfmpegConverter\obj\Debug\net5.0\ref\FfmpegConverter.dll
-C:\Apps\FfmpegConverter\bin\Debug\net5.0\ref\FfmpegConverter.dll
+C:\Apps\FfmpegConverter\obj\Debug\net5.0\refint\FfmpegConverter.dll
